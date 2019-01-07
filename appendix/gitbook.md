@@ -1,5 +1,7 @@
 # 附錄-gitbook 筆記
 
+[以前使用的hackmd](https://hackmd.io/axYfDhjQSFaCGvjl_m7Qtg#Day-37-%E9%95%B7%E9%9F%B3%E4%BF%83%E9%9F%B3)
+
 [這本書的位置](https://cyberbulb.gitbook.io/jp-learn/)
 
 [gitbook 入門](https://blog.csdn.net/lu_embedded/article/details/81100704)
@@ -33,4 +35,3 @@
 用node.js 開啟預覽發布之後的書樣子
 
     $ gitbook serve
-
