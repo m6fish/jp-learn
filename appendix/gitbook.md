@@ -1,6 +1,8 @@
 # 附錄-gitbook 筆記
 
+[這本書的位置](https://cyberbulb.gitbook.io/jp-learn/)
 
+[gitbook 入門](https://blog.csdn.net/lu_embedded/article/details/81100704)
 
 [markdown 語法查詢](https://markdown.tw/)
 
@@ -20,7 +22,13 @@
 
 下指令
 
-> $ gitbook init
+    $ gitbook init
 
 就可以自動依照結構生成檔案(ex: Chapter0/資源.md)
 
+
+
+### gitbook 預覽環境
+
+用node.js 開啟預覽發布之後的書樣子
+​    $ gitbook serve
