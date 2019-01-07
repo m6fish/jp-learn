@@ -31,4 +31,6 @@
 ### gitbook 預覽環境
 
 用node.js 開啟預覽發布之後的書樣子
-​    $ gitbook serve
+
+    $ gitbook serve
+
