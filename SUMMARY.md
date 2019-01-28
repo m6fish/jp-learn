@@ -11,7 +11,7 @@
     * [CH1-6 (day 40) 重音](Chapter1/重音.md)
     * [CH1-7 (day 53) 相近五十音表](Chapter1/相近五十音.md)
 * Chapter2 - N5文法篇
-    * [CH2-1  句型*2 は+名詞+です & ~ で ~ / ~ の](Chapter2/2-1.md)
+    * [CH2-1  句型*3 は+名詞+です & ~ で ~ / ~ の](Chapter2/2-1.md)
     * [CH2-2  這個 那個 & 代名詞](Chapter2/2-2.md)
     * [CH2-3 形容詞](Chapter2/2-3.md)
     * [CH2-4 形容終止形 (-て)](Chapter2/2-4.md)
